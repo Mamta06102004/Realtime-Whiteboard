@@ -17,16 +17,16 @@ A collaborative, real-time whiteboard built with *Vanilla JavaScript, HTML, and 
 - *Real-time Communication:* Socket.io
 
 ## Here is the GUI💁🏻‍♀
-![image](https://github.com/user-attachments/assets/e25cad26-1290-4c68-b41c-7a628dd78637)
+![image](https://github.com/user-attachments/assets/78922f21-7d78-4671-8a4d-2ee9d954970f)
 
 ## 🔗 Live Demo
-[Try the Real-Time Whiteboard Here!](https://realtime-whiteboard-coral.vercel.app) — Try it out!
+[Try the Real-Time Whiteboard Here!](https://realtime-whiteboard-omega.vercel.app) — Try it out!
 
 ## 📦 Installation & Setup
 
 ### Clone the repository
 
-git clone https://github.com/yourusername/realtime-whiteboard.git
+git clone https://github.com/Mamta06102004/Realtime-Whiteboard.git
 cd realtime-whiteboard
 
 ### Install dependencies
