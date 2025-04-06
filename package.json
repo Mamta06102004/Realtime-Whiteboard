@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pep-DEV101/PepBoard.git"
+    "url": "git+https://github.com/Mamta06102004/Realtime-Whiteboard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pep-DEV101/PepBoard/issues"
+    "url": "https://github.com/Mamta06102004/Realtime-Whiteboard/issues"
   },
-  "homepage": "https://github.com/Pep-DEV101/PepBoard#readme"
+  "homepage": "https://github.com/Mamta06102004/Realtime-Whiteboard/blob/main/README.md"
 }
