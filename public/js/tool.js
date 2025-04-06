@@ -1,5 +1,5 @@
 // connect to socket server
-const socket = io.connect("https://pepboard-3fhn.onrender.com");
+const socket = io.connect("https://realtime-whiteboard-indol.vercel.app/");
 // *********************************Basic Setup
 const board = document.querySelector(".board");
 board.height = window.innerHeight;
