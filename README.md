@@ -3,7 +3,7 @@
 A collaborative real-time whiteboard web application where users can draw, erase, and interact on a shared canvas simultaneously. Built for teams, classrooms, and creative collaboration.
 
 ### 🚀 Live Demo
-🔗 [Click here to use the Whiteboard]([https://realtime-whiteboard-indol.vercel.app/])
+🔗 [Click here to use the Whiteboard](https://realtime-whiteboard-indol.vercel.app)
 
 ## 🚀 Features
 
@@ -32,4 +32,6 @@ A collaborative real-time whiteboard web application where users can draw, erase
 ```bash
 git clone https://github.com/yourusername/realtime-whiteboard.git
 cd realtime-whiteboard
+```
+If you have any ideas for new features or improvements, feel free to submit a pull request.
 
