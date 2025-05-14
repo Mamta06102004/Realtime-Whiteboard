@@ -1,5 +1,5 @@
 // connect to socket server
-const socket = io("https://realtime-whiteboard-indol.vercel.app/");
+const socket = io("https://realtime-whiteboard-bi6e.onrender.com/");
 // *********************************Basic Setup
 const board = document.querySelector(".board");
 board.height = window.innerHeight;
